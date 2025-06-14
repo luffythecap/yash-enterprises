@@ -27,11 +27,9 @@ A modern, responsive, and animated portfolio website built to showcase projects,
 ## 🛠️ Built With
 
 - **HTML5** – Semantic structure
-- **Tailwind CSS** – Fast and responsive styling
+- ** CSS** – Fast and responsive styling
 - **JavaScript** – Interactivity and animations
-- **SwiperJS** – Carousel/slider functionality
-- **GSAP / AOS** (if used) – Smooth scroll-based animations
-- **Responsive Design** – Optimized for desktop, tablet, and mobile
+- - **Responsive Design** – Optimized for desktop, tablet, and mobile
 
 ---
 
